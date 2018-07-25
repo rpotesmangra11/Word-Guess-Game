@@ -1,0 +1,25 @@
+Hangman- Reggaeton Edition
+
+1. Press any key to start
+
+2. Wins tracker
+	a. DISPLAY image when win
+	b. DISPLAY "you lose" when guessed
+	c. PLAY music when win
+	d. AUTOMATICALLY display new guess
+
+3. Current word
+	a. CREATE ARRAY with songs
+	b. DISPLAY spaces for the number of letters in song title
+	c. RANDOM song
+
+4. Number of guesses remaining
+	a. DISPLAY amount for number of guesses
+	b. SUBRACT one for each key pressed
+
+5. Letters already guessed
+	a. DISPLAY the guessed letter
+		-EVENT HANDLER for key pressed
+	b. APPENDED to last guess
+
+

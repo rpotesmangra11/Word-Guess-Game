@@ -1,0 +1,11 @@
+body {
+  background-color: #ffc107;
+}
+
+.lead {
+  font-style: italic;
+}
+
+#wordToGuess {
+  min-width: 300px;
+}
